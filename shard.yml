@@ -1,0 +1,13 @@
+name: advent_of_code
+version: 0.1.0
+
+authors:
+  - Eloy <ej.perezgomez@gmail.com>
+
+targets:
+  advent_of_code:
+    main: src/advent_of_code.cr
+
+crystal: 0.24.1
+
+license: MIT
