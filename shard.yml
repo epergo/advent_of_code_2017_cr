@@ -8,6 +8,6 @@ targets:
   advent_of_code:
     main: src/advent_of_code.cr
 
-crystal: 0.24.1
+crystal: 0.25.1
 
 license: MIT
